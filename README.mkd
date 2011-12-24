@@ -1,10 +1,10 @@
-Solarized - mintty color scheme
-==========================
+Solarized — Mintty color scheme
+===============================
 
 This is a [Solarized][solarized] color scheme for [Mintty][mintty], 
 based on the work by [Karlin Fox][krf] and [mavnn][mavnn].
 
-You can use it with [Solarized for vim](https://github.com/altercation/vim-colors-solarized) or other applications.
+You can use it with [Solarized for vim][vim-solarized] or other applications.
 
 See the [Solarized home page][solarized] for screenshots and more details.
 
@@ -12,9 +12,9 @@ See the [Solarized home page][solarized] for screenshots and more details.
   [krf]:            https://github.com/karlin
   [mavnn]:          https://github.com/mavnn
   [solarized]:      http://ethanschoonover.com/solarized
-
-Installation (mintty)
---------------------
+  [vim-solarized]:  https://github.com/altercation/vim-colors-solarized
+Installation
+------------
 
 Source one of the shell scripts in your environment. For example, you might put this in your .bashrc file:
 
